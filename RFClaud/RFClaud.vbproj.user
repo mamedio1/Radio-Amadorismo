@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\mamed\source\repos\RFClaud\RFClaud\My Project\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="CalculadoraBalun.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCircuitoTanque.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormGeradorSinais.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBobinaToroidal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAntenasGroundPlane.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAntenasDipolo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAntenasLoopMagnetica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCalcularEspiras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCalcularLPorDimensoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormConfiguracoesTemas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormConversaoPotencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCalcularIndutancia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCalcularCapacitor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormComprimentoOnda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSobre.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
