@@ -6,6 +6,13 @@ Essa ferramenta possue calculos para comprimento de onda, indutância, achar o c
 
  
 ![Logo](img/calculadoraRF.PNG) 
+<br>
+<div align="center">
+  <img src="img/rf.PNG" width="300" height="200" />
+  <img src="img/rf2.PNG" width="300 height="200" />
+  <img src="img/rf3.PNG" width="300 height="200" />
+</div>
+
 
 ## Authors
 
@@ -13,8 +20,7 @@ Essa ferramenta possue calculos para comprimento de onda, indutância, achar o c
 
 
 ## 🚀 About Me
-Eu sou o Robson, sou Programador Front End, atualmene estou aprendendo e criando projetos com HTML, CSS, JavaScript 
-e iniciando aprendizado em React. Sou tecnólogo em Telecomunicações e Eletrônica e tenho pós em Docência do Ensino Superior.
+Eu sou o Robson, atualmene estou aprendendo e criando projetos com HTML, CSS, JavaScript e iniciando aprendizado em React. Sou tecnólogo em Telecomunicações e Eletrônica com pós em Docência do Ensino Superior. Desenvolvendo projetos em Front And e esse projeto feito em VB.NT é para quem quiser usar, mudar e fazer do jeito que quiser.
 
 
 ## 🛠 Skills
