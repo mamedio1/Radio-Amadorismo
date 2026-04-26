@@ -48,3 +48,4 @@ C:\Users\mamed\source\repos\RFClaud\RFClaud\bin\Debug\net8.0-windows\NAudio.WinF
 C:\Users\mamed\source\repos\RFClaud\RFClaud\bin\Debug\net8.0-windows\NAudio.WinMM.dll
 C:\Users\mamed\source\repos\RFClaud\RFClaud\bin\Debug\net8.0-windows\MathNet.Numerics.dll
 C:\Users\mamed\source\repos\RFClaud\RFClaud\obj\Debug\net8.0-windows\RFClaud.FormCircuitoTanque.resources
+C:\Users\mamed\source\repos\RFClaud\RFClaud\obj\Debug\net8.0-windows\RFClaud.sourcelink.json

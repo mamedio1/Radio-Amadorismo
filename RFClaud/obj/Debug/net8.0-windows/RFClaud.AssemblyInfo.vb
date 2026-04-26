@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("RFClaud"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a54510f1e18d11b28b35c2ba250a6320b493bfd1"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("RFClaud"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("RFClaud"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
